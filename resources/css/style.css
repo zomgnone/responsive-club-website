@@ -1,0 +1,78 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  background-color: #00dbff;
+}
+
+nav {
+  padding-top: 1rem;
+  background-color: #00dbff;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul a {
+  text-decoration: none;
+}
+
+nav ul li {
+  display: inline;
+  padding-left: 2rem;
+  color: black;
+}
+
+#intro {
+  background-image: url('../images/intro.jpg');
+  height: 20rem;
+  background-position: center;
+  padding-top: 1rem;
+}
+
+#intro h1 {
+  margin-top: 8rem;
+  text-align: center;
+  background-color: rgba(77, 167, 202, 0.5);
+}
+
+#agenda {
+  padding: 0 1rem;
+}
+
+#agenda h2 {
+  color: mediumblue;
+}
+#agenda p {
+  color:  peru;
+}
+
+.photo img {
+  width: 30%;
+  margin: 1%;
+}
+
+.testimonial {
+  padding: 0 1rem;
+}
+
+.testimonial h2 {
+  color: mediumblue;
+  /*! padding: 0 1rem; */
+}
+.testimonial p {
+  color: peru;
+}
+
+#meetup img {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#meetup h2 {
+  text-align: center;
+  color: mediumblue;
+}
