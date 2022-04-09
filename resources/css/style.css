@@ -45,7 +45,8 @@ nav ul li {
   color: mediumblue;
 }
 #agenda p {
-  color:  peru;
+  color:  #023b0b;
+}
 }
 
 .photo img {
@@ -62,7 +63,7 @@ nav ul li {
   /*! padding: 0 1rem; */
 }
 .testimonial p {
-  color: peru;
+  color: #023b0b;
 }
 
 #meetup img {
