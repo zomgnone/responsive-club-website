@@ -1,6 +1,6 @@
 # Responsive Club Website
 ----
-Project to demonstrate basics of responsive web design.
+Project demonstrates basics of responsive web design.
 
 Main focus:
 * using relative units (`em, rem`);
